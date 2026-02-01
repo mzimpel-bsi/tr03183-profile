@@ -8,7 +8,7 @@ This document is intended as a collection of information and as an introductory 
 
 The information provided is a guideline and is neither legally binding nor mandatory. It cannot be used as presumption of conformity. BSI TR-03183 will be gradually developed further and replaced by the corresponding harmonized European standards as soon as they become available.
 
-The CRA came into force in December 2024. The transitional periods are currently running until its full implementation on 11 December 2027. Find out more about the CRA
+The CRA came into force in December 2024. The transitional periods are currently running until its full implementation on 11 December 2027. Find out more about the CRA: https://www.bsi.bund.de/dok/cra-en
 
 The Technical Guideline is continuously updated and further developed.
 
